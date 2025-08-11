@@ -61,6 +61,7 @@ Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Prote
 - *2016/9 - 2020/6*, B.S. in Mathematics, School of Mathematics and Statistics, Northwest Normal University
 
 # 💬 Conferences
+- Society of Chinese Bioscientists in America (SCBA) Washington DC Chapter Annual Scientific Symposium, poster, George Mason University (Arlington Campus), VA, USA, *2025/8*
 -	FASEB Protein Aggregation Conference, Poster flash talk, Scottsdale, Arizona, USA, *2025/6*
 -	Graduate Research Appreciation Day (GRAD), Oral presentation, University of Maryland, College Park, MD, USA, *2025/4*
 -	The 3rd Annual Early Career Symposium, Poster, Institute for Bioscience & Biotechnology Research, Rockville, MD, USA, *2024/9*
