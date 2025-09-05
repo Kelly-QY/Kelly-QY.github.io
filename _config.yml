@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qiushi Ye"
+title                    : "Qiushi(Kelly) Ye"
 description              : ""
 repository               : "Kelly-QY/Kelly-QY.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qiushi Ye"
-  avatar           : "images/biopic.png"
+  name             : "Qiushi(Kelly) Ye"
+  avatar           : "images/biopic_square.png"
   bio              : "University of Maryland, College Park"
   location         : "Rockville, MD, USA"
   employer         :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           :"Kelly-QY"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "Qiushi Ye"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0002-5569-1545"
   pinterest        :
