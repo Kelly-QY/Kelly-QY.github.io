@@ -62,7 +62,8 @@ Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Prote
 
 # 💬 Conferences
 **ORAL PRESENTATION:** 
--	FASEB Protein Aggregation Conference, Poster flash talk, Scottsdale, AZ, USA, *2025/6*
+-	The 4rd Annual Early Career Symposium, Oral presentation, Institute for Bioscience & Biotechnology Research, Rockville, MD, USA, *2025/9*
+- FASEB Protein Aggregation Conference, Poster flash talk, Scottsdale, AZ, USA, *2025/6*
 -	Graduate Research Appreciation Day (GRAD), Oral presentation, University of Maryland, College Park, MD, USA, *2025/4*
   
 **POSTER PRESENTATION:**
