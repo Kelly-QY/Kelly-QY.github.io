@@ -8,9 +8,9 @@
 # Site Settings
 # locale                   : "en-US"
 title                    : "Qiushi Ye"
-name                     : &name "Qiushi Ye"
+name                     :  
 title_separator          : "-"
-description              : &description "personal description"
+description              : 
 repository               : "Kelly-QY/Kelly-QY.github.io"
 url                      : https://kelly-qy.github.io/
 google_scholar_stats_use_cdn : true
