@@ -48,12 +48,12 @@ Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Prote
 - [Yang, Z., Zhang, Z., Zhao, Y., **Ye, Q.**, ... & Zhang, L. (2022). Organelle interaction and drug discovery: Towards correlative nanoscopy and molecular dynamics (MD) simulation.](https://www.frontiersin.org/article/10.3389/fphar.2022.935898) Frontiers in Pharmacology, 13, 935898.
 
 # 🎖 Honors and Awards
--	FASEB Protein Aggregation Conference, Travel Award, *2025*
--	Graduate First-Tier Scholarship, School of Physics, Xi’an Jiaotong University, *2020-2024*
-- Excellent Graduate Student Award, School of Physics, Xi’an Jiaotong University, *2022, 2024*
--	First-Tier Scholarship for Undergraduate Student (Top 1%), Northwest Normal University, *2016-2020*
+-	Travel Award, FASEB Protein Aggregation Conference, *2025*
+- Excellent Graduate Student Award, Xi’an Jiaotong University, *2022, 2024*
+- Graduate First-Tier Scholarship, Xi’an Jiaotong University, *2020-2024*
 -	Scholarship for Academic Research (Top 1%), Northwest Normal University, *2017-2018*
 -	**Excellent Undergraduate Student Award** (Top 1%), Gansu Province, *2017*
+-	First-Tier Scholarship for Undergraduate Student (Top 1%), Northwest Normal University, *2016-2020*
 
 # 📖 Educations
 - *2023/11 - present*, visiting Ph.D. student, Institute for Bioscience & Biotechnology Research, University of Maryland, College Park
