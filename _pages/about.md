@@ -53,7 +53,7 @@ Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Prote
 - Excellent Graduate Student Award, School of Physics, Xi’an Jiaotong University, *2022, 2024*
 -	First-Tier Scholarship for Undergraduate Student (Top 1%), Northwest Normal University, *2016-2020*
 -	Scholarship for Academic Research (Top 1%), Northwest Normal University, *2017-2018*
--	**Excellent Undergraduate Student Award** (Top 1%), Northwest Normal University, Gansu Province, *2017*
+-	**Excellent Undergraduate Student Award** (Top 1%), Gansu Province, *2017*
 
 # 📖 Educations
 - *2023/11 - present*, visiting Ph.D. student, Institute for Bioscience & Biotechnology Research, University of Maryland, College Park
