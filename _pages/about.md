@@ -25,7 +25,6 @@ My research focuses on establishing Sorcin as a model system for investigating p
 </div>
 
 # 📝 Publications 
-<div style="text-align: justify;">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/stopped-flow-paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering
@@ -44,7 +43,6 @@ Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Prote
 - [**Ye, Q.**, ... & Zhang, L. (2024). Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Protein in SARS-CoV-2 by Machine Learning.](https://www.mdpi.com/1422-0067/25/9/4662) International Journal of Molecular Sciences, 25(9), 4662.
 </div>
 </div>
-</div>
 
 - [**Ye, Q.**, ... & Zhang, L. (2023). Accounting Conformational Dynamics into Structural Modeling Reflected by Cryo-EM with Deep Learning.](https://dx.doi.org/10.2174/1386207325666220514143909) Combinatorial Chemistry & High Throughput Screening, 26(3), 449-458.
 - [Carillo, K. J., He, Y., **Ye, Q.**, ... & Liu, Y. (2024). Solution NMR backbone resonance assignment of the full-length resistance-related calcium-binding protein Sorcin.](https://link.springer.com/article/10.1007/s12104-024-10196-0) Biomolecular NMR Assignments, 18(2):253-256. 
@@ -52,24 +50,19 @@ Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Prote
 - [Yang, Z., Zhang, Z., Zhao, Y., **Ye, Q.**, ... & Zhang, L. (2022). Organelle interaction and drug discovery: Towards correlative nanoscopy and molecular dynamics (MD) simulation.](https://www.frontiersin.org/article/10.3389/fphar.2022.935898) Frontiers in Pharmacology, 13, 935898.
 
 # 🎖 Honors and Awards
-<div style="text-align: justify;">
 -	Travel Award, FASEB Protein Aggregation Conference, *2025*
 - Excellent Graduate Student Award, Xi’an Jiaotong University, *2022, 2024*
 - Graduate First-Tier Scholarship, Xi’an Jiaotong University, *2020-2024*
 -	Scholarship for Academic Research (Top 1%), Northwest Normal University, *2017-2018*
 -	**Excellent Undergraduate Student Award** (Top 1%), Gansu Province, *2017*
 -	First-Tier Scholarship for Undergraduate Student (Top 1%), Northwest Normal University, *2016-2020*
-</div>
 
 # 📖 Educations
-<div style="text-align: justify;">
 - *2023/11 - present*, visiting Ph.D. student, Institute for Bioscience & Biotechnology Research, University of Maryland, College Park
 - *2020/9 - present*, Ph.D. candidate, School of Physics, Xi'an Jiaotong University
 - *2016/9 - 2020/6*, B.S. in Mathematics, School of Mathematics and Statistics, Northwest Normal University
-</div>
 
 # 💬 Conferences
-<div style="text-align: justify;">
 **ORAL PRESENTATION:** 
 -	The 4th Annual Early Career Symposium, Oral presentation, Institute for Bioscience & Biotechnology Research, Rockville, MD, USA, *2025/9*
 - FASEB Protein Aggregation Conference, Poster flash talk, Scottsdale, AZ, USA, *2025/6*
@@ -80,4 +73,3 @@ Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Prote
 - Society of Chinese Bioscientists in America (SCBA) Washington DC Chapter Annual Scientific Symposium, Poster, George Mason University, Arlington, VA, USA, *2025/8*
 -	The 3rd Annual Early Career Symposium, Poster, Institute for Bioscience & Biotechnology Research, Rockville, MD, USA, *2024/9*
 -	Frontiers in Chemistry and Biology Interface Symposium (FCBIS), Poster, University of Maryland, Baltimore County, USA *2024/5*
-</div>
