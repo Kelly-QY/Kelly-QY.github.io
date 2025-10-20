@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<div style="text-align: justify;">
+<div style="text-align: justify;" markdown="1">
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong University, and a visiting Ph.D. student in the Department of Chemistry and Biochemistry at the University of Maryland (UMD) &amp the Institute for Bioscience and Biotechnology Research (IBBR).
