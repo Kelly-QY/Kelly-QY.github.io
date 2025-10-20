@@ -15,15 +15,14 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
 <div style="text-align: justify;">
+<span class='anchor' id='about-me'></span>
+
 I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong University, and a visiting Ph.D. student in the Department of Chemistry and Biochemistry at the University of Maryland (UMD) & the Institute for Bioscience and Biotechnology Research (IBBR).
 
 My research focuses on establishing Sorcin as a model system for investigating protein aggregation. Single-particle cryo-electron microscopy (cryo-EM) and molecular dynamics (MD) simulations serve as the principal techniques in my research. Outside the lab, I enjoy swimming and hiking.
-</div>
 
 # 📝 Publications 
-<div style="text-align: justify;">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/stopped-flow-paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering
@@ -72,3 +71,4 @@ Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Prote
 - Society of Chinese Bioscientists in America (SCBA) Washington DC Chapter Annual Scientific Symposium, Poster, George Mason University, Arlington, VA, USA, *2025/8*
 -	The 3rd Annual Early Career Symposium, Poster, Institute for Bioscience & Biotechnology Research, Rockville, MD, USA, *2024/9*
 -	Frontiers in Chemistry and Biology Interface Symposium (FCBIS), Poster, University of Maryland, Baltimore County, USA *2024/5*
+</div>
