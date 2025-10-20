@@ -25,6 +25,7 @@ My research focuses on establishing Sorcin as a model system for investigating p
 </div>
 
 # 📝 Publications 
+<div style="text-align: justify;">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/stopped-flow-paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering
@@ -43,11 +44,20 @@ Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Prote
 - [**Ye, Q.**, ... & Zhang, L. (2024). Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Protein in SARS-CoV-2 by Machine Learning.](https://www.mdpi.com/1422-0067/25/9/4662) International Journal of Molecular Sciences, 25(9), 4662.
 </div>
 </div>
-
+</div>
+<div style="text-align: justify;">
+  
 - [**Ye, Q.**, ... & Zhang, L. (2023). Accounting Conformational Dynamics into Structural Modeling Reflected by Cryo-EM with Deep Learning.](https://dx.doi.org/10.2174/1386207325666220514143909) Combinatorial Chemistry & High Throughput Screening, 26(3), 449-458.
+</div>
+<div style="text-align: justify;">  
 - [Carillo, K. J., He, Y., **Ye, Q.**, ... & Liu, Y. (2024). Solution NMR backbone resonance assignment of the full-length resistance-related calcium-binding protein Sorcin.](https://link.springer.com/article/10.1007/s12104-024-10196-0) Biomolecular NMR Assignments, 18(2):253-256. 
+</div>
+<div style="text-align: justify;">
 - [Yang, Z., Cai, X., **Ye, Q.**, ..., & Zhang, L. (2023). High-Throughput Screening for the Potential Inhibitors of SARS-CoV-2 with Essential Dynamic Behavior.](https://www.eurekaselect.com/article/130021) Current Drug Targets, 24(6), 532-545.
+</div>
+<div style="text-align: justify;">
 - [Yang, Z., Zhang, Z., Zhao, Y., **Ye, Q.**, ... & Zhang, L. (2022). Organelle interaction and drug discovery: Towards correlative nanoscopy and molecular dynamics (MD) simulation.](https://www.frontiersin.org/article/10.3389/fphar.2022.935898) Frontiers in Pharmacology, 13, 935898.
+</div>
 
 # 🎖 Honors and Awards
 -	Travel Award, FASEB Protein Aggregation Conference, *2025*
