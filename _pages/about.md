@@ -58,16 +58,16 @@ Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Prote
 
 -	Travel Award, FASEB Protein Aggregation Conference, *2025*
 - Excellent Graduate Student Award, Xi’an Jiaotong University, *2022, 2024*
-- Graduate First-Tier Scholarship, Xi’an Jiaotong University, *2020-2024*
--	Scholarship for Academic Research (Top 1%), Northwest Normal University, *2017-2018*
+- First-Tier Scholarship for Graduate Student, Xi’an Jiaotong University, *2020-2024*
+-	Scholarship for Academic Research, Northwest Normal University, *2017-2018*
 -	**Excellent Undergraduate Student Award** (Top 1%), Gansu Province, *2017*
--	First-Tier Scholarship for Undergraduate Student (Top 1%), Northwest Normal University, *2016-2020*
+-	First-Tier Scholarship for Undergraduate Student, Northwest Normal University, *2016-2020*
 </div>
 
 # 📖 Educations
 <div style="text-align: justify;" markdown="1">
 
-- *2023/11 - present*, visiting Ph.D. student, Institute for Bioscience & Biotechnology Research, University of Maryland, College Park
+- *2023/11 - present*, visiting Ph.D. student, University of Maryland, College Park/ Institute for Bioscience and Biotechnology Research
 - *2020/9 - present*, Ph.D. candidate, School of Physics, Xi'an Jiaotong University
 - *2016/9 - 2020/6*, B.S. in Mathematics, School of Mathematics and Statistics, Northwest Normal University
 </div>
@@ -76,7 +76,7 @@ Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Prote
 **ORAL PRESENTATION:** 
 <div style="text-align: justify;" markdown="1">
 
--	The 4th Annual Early Career Symposium, Oral presentation, Institute for Bioscience & Biotechnology Research, Rockville, MD, USA, *2025/9*
+-	The 4th Annual Early Career Symposium, Oral presentation, Institute for Bioscience and Biotechnology Research, Rockville, MD, USA, *2025/9*
 - FASEB Protein Aggregation Conference, Poster flash talk, Scottsdale, AZ, USA, *2025/6*
 -	Graduate Research Appreciation Day (GRAD), Oral presentation, University of Maryland, College Park, MD, USA, *2025/4*
 </div>
