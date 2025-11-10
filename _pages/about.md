@@ -87,5 +87,6 @@ Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Prote
 - American Chemical Society (ACS) Fall Meeting (BIOL: Division of Biochemistry and Chemical Biology), Poster, Washington DC., USA, *2025/8* 
 - Society of Chinese Bioscientists in America (SCBA) Washington DC Chapter Annual Scientific Symposium, Poster, George Mason University, Arlington, VA, USA, *2025/8*
 -	The 3rd Annual Early Career Symposium, Poster, Institute for Bioscience & Biotechnology Research, Rockville, MD, USA, *2024/9*
--	Frontiers in Chemistry and Biology Interface Symposium (FCBIS), Poster, University of Maryland, Baltimore County, USA *2024/5*
+-	Frontiers in Chemistry and Biology Interface Symposium (FCBIS), Poster, University of Maryland, Baltimore County, USA, *2024/5*
+-	International Workshop on Soft Matter and Biophysics Theories (SMBP), Poster, Xi’an, Shaanxi, China, *2023/8*
 </div>
