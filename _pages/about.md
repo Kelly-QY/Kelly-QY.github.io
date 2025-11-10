@@ -67,9 +67,9 @@ Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Prote
 # 📖 Educations
 <div style="text-align: justify;" markdown="1">
 
-- *2020/9 - 2026/03*, Ph.D. candidate, School of Physics, Xi'an Jiaotong University
-- *2023/10 - 2025/10*, visiting scholar, University of Maryland, College Park/ Institute for Bioscience and Biotechnology Research
-- *2016/9 - 2020/6*, B.S. in Mathematics, School of Mathematics and Statistics, Northwest Normal University
+- *2020/09 - 2026/03*, Ph.D. candidate, School of Physics, Xi'an Jiaotong University
+- *2023/11 - 2025/10*, visiting scholar, University of Maryland, College Park/ Institute for Bioscience and Biotechnology Research
+- *2016/09 - 2020/06*, B.S. in Mathematics, School of Mathematics and Statistics, Northwest Normal University
 </div>
 
 # 💬 Conferences
