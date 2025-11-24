@@ -15,44 +15,78 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<div style="text-align: justify;">
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong University, and a visiting scholar in the Department of Chemistry and Biochemistry at the University of Maryland (UMD) and the Institute for Bioscience and Biotechnology Research (IBBR).
+</div>
+<div style="text-align: justify;">
+My research focuses on establishing Sorcin as a model system for investigating protein aggregation. Single-particle cryo-electron microscopy (cryo-EM) and molecular dynamics (MD) simulations serve as the principal techniques in my research. Outside the lab, I enjoy swimming and hiking.
+</div>
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div style="text-align: justify;">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/stopped-flow-paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Qiushi Ye**, Kathleen Joyce Carillo, Angela Wu, Nicolas Delaeter, Lei Zhang, Jaekyun Jeon, and Yanxin Liu
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- [**Ye, Q.**,... and Liu, Y. (2025). Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering.](https://portlandpress.com/biochemj/article/482/21/BCJ20253194/236661/Kinetic-investigation-of-calcium-induced-Sorcin) Biochemical Journal, 482(21), 1677–1688.
+</div>
+</div>  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/transformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Protein in SARS-CoV-2 by Machine Learning
+  
+**Qiushi Ye**, He Wang, Fanding Xu, Sijia Zhang, Shengli Zhang, Zhiwei Yang, and Lei Zhang
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- [**Ye, Q.**,... and Zhang, L. (2024). Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Protein in SARS-CoV-2 by Machine Learning.](https://www.mdpi.com/1422-0067/25/9/4662) International Journal of Molecular Sciences, 25(9), 4662.
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+</div>
+<div style="text-align: justify;" markdown="1">
+  
+- [**Ye, Q.**,... and Zhang, L. (2023). Accounting Conformational Dynamics into Structural Modeling Reflected by Cryo-EM with Deep Learning.](https://dx.doi.org/10.2174/1386207325666220514143909) Combinatorial Chemistry and High Throughput Screening, 26(3), 449-458.
+- [Carillo, K. J., He, Y., **Ye, Q.**,... and Liu, Y. (2024). Solution NMR backbone resonance assignment of the full-length resistance-related calcium-binding protein Sorcin.](https://link.springer.com/article/10.1007/s12104-024-10196-0) Biomolecular NMR Assignments, 18(2):253-256.  
+- [Yang, Z., Cai, X., **Ye, Q.**,... and Zhang, L. (2023). High-Throughput Screening for the Potential Inhibitors of SARS-CoV-2 with Essential Dynamic Behavior.](https://www.eurekaselect.com/article/130021) Current Drug Targets, 24(6), 532-545.
+- [Yang, Z., Zhang, Z., Zhao, Y., **Ye, Q.**,... and Zhang, L. (2022). Organelle interaction and drug discovery: Towards correlative nanoscopy and molecular dynamics (MD) simulation.](https://www.frontiersin.org/article/10.3389/fphar.2022.935898) Frontiers in Pharmacology, 13, 935898.
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div style="text-align: justify;" markdown="1">
+
+-	Travel Award, FASEB Protein Aggregation Conference, *2025*
+- Excellent Graduate Student Award, Xi’an Jiaotong University, *2022, 2024*
+- First-Tier Scholarship for Graduate Student, Xi’an Jiaotong University, *2020-2024*
+-	Scholarship for Academic Research, Northwest Normal University, *2017-2018*
+-	Excellent Undergraduate Student Award (Top 1%), Gansu Province, *2017*
+-	First-Tier Scholarship for Undergraduate Student, Northwest Normal University, *2016-2020*
+</div>
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div style="text-align: justify;" markdown="1">
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2020/09 - 2026/03*, Ph.D. candidate, School of Physics, Xi'an Jiaotong University
+- *2023/11 - 2025/10*, visiting scholar, University of Maryland, College Park/ Institute for Bioscience and Biotechnology Research
+- *2016/09 - 2020/06*, B.S. in Mathematics, School of Mathematics and Statistics, Northwest Normal University
+</div>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Conferences
+**ORAL PRESENTATION:** 
+<div style="text-align: justify;" markdown="1">
+
+-	The 4th Annual Early Career Symposium, Oral presentation, Institute for Bioscience and Biotechnology Research, Rockville, MD, USA, *2025/9*
+- FASEB Protein Aggregation Conference, Poster flash talk, Scottsdale, AZ, USA, *2025/6*
+-	Graduate Research Appreciation Day (GRAD), Oral presentation, University of Maryland, College Park, MD, USA, *2025/4*
+</div>
+
+**POSTER PRESENTATION:**
+<div style="text-align: justify;" markdown="1">
+  
+- American Chemical Society (ACS) Fall Meeting (BIOL: Division of Biochemistry and Chemical Biology), Poster, Washington DC., USA, *2025/8* 
+- Society of Chinese Bioscientists in America (SCBA) Washington DC Chapter Annual Scientific Symposium, Poster, George Mason University, Arlington, VA, USA, *2025/8*
+-	The 3rd Annual Early Career Symposium, Poster, Institute for Bioscience and Biotechnology Research, Rockville, MD, USA, *2024/9*
+-	Frontiers in Chemistry and Biology Interface Symposium (FCBIS), Poster, University of Maryland, Baltimore County, USA, *2024/5*
+-	International Workshop on Soft Matter and Biophysics Theories (SMBP), Poster, Xi’an, Shaanxi, China, *2023/8*
+</div>
