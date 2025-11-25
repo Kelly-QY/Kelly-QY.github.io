@@ -17,7 +17,11 @@ redirect_from:
 
 <div style="text-align: justify;">
 <span class='anchor' id='about-me'></span>
+
 I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong University. My research focuses on establishing Sorcin as a model system for investigating protein aggregation. Single-particle cryo-electron microscopy (cryo-EM) and molecular dynamics (MD) simulations serve as the principal techniques in my research. Outside the lab, I enjoy swimming and hiking.
+</div>
+<div style="text-align: justify;">
+
 </div>
 
 # 📝 Publications 
