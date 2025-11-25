@@ -18,7 +18,7 @@ redirect_from:
 <div style="text-align: justify;">
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong University, and a visiting scholar in the Department of Chemistry and Biochemistry at the University of Maryland (UMD) and the Institute for Bioscience and Biotechnology Research (IBBR).
+I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong University.
 </div>
 <div style="text-align: justify;">
 My research focuses on establishing Sorcin as a model system for investigating protein aggregation. Single-particle cryo-electron microscopy (cryo-EM) and molecular dynamics (MD) simulations serve as the principal techniques in my research. Outside the lab, I enjoy swimming and hiking.
@@ -35,16 +35,6 @@ Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow ligh
 - [**Ye, Q.**,... and Liu, Y. (2025). Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering.](https://portlandpress.com/biochemj/article/482/21/BCJ20253194/236661/Kinetic-investigation-of-calcium-induced-Sorcin) Biochemical Journal, 482(21), 1677–1688.
 </div>
 </div>  
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/transformer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Protein in SARS-CoV-2 by Machine Learning
-  
-**Qiushi Ye**, He Wang, Fanding Xu, Sijia Zhang, Shengli Zhang, Zhiwei Yang, and Lei Zhang
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- [**Ye, Q.**,... and Zhang, L. (2024). Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Protein in SARS-CoV-2 by Machine Learning.](https://www.mdpi.com/1422-0067/25/9/4662) International Journal of Molecular Sciences, 25(9), 4662.
-</div>
-</div>
-</div>
 <div style="text-align: justify;" markdown="1">
   
 - [**Ye, Q.**,... and Zhang, L. (2023). Accounting Conformational Dynamics into Structural Modeling Reflected by Cryo-EM with Deep Learning.](https://dx.doi.org/10.2174/1386207325666220514143909) Combinatorial Chemistry and High Throughput Screening, 26(3), 449-458.
