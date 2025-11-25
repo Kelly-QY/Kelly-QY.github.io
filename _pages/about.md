@@ -34,7 +34,8 @@ Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow ligh
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - [**Ye, Q.**,... and Liu, Y. (2025). Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering.](https://portlandpress.com/biochemj/article/482/21/BCJ20253194/236661/Kinetic-investigation-of-calcium-induced-Sorcin) Biochemical Journal, 482(21), 1677–1688.
 </div>
-</div>  
+</div>
+</div>
 <div style="text-align: justify;" markdown="1">
   
 - [**Ye, Q.**,... and Zhang, L. (2023). Accounting Conformational Dynamics into Structural Modeling Reflected by Cryo-EM with Deep Learning.](https://dx.doi.org/10.2174/1386207325666220514143909) Combinatorial Chemistry and High Throughput Screening, 26(3), 449-458.
