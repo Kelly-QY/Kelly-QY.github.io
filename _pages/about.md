@@ -28,9 +28,6 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 <div style="text-align: justify;">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/stopped-flow-paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering
-
-**Qiushi Ye**, Kathleen Joyce Carillo, Angela Wu, Nicolas Delaeter, Lei Zhang, Jaekyun Jeon, and Yanxin Liu
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - [**Ye, Q.**,... and Liu, Y. (2025). Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering.](https://portlandpress.com/biochemj/article/482/21/BCJ20253194/236661/Kinetic-investigation-of-calcium-induced-Sorcin) Biochemical Journal, 482(21), 1677–1688.
 </div>
