@@ -41,7 +41,7 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 </div>
 <div style="text-align: justify;" markdown="1">
 
-- [**Ye, Q.**,... and Zhang, L. (2023). Accounting Conformational Dynamics into Structural Modeling Reflected by Cryo-EM with Deep Learning.](https://dx.doi.org/10.2174/1386207325666220514143909) Combinatorial Chemistry and High Throughput Screening, 26(3), 449-458.
+- [**Ye, Q.**, Zhao, Y., Li, X., Zhao, Y., Fu, X., Zhang, S., Yang, Z., and Zhang, L. (2023). Accounting Conformational Dynamics into Structural Modeling Reflected by Cryo-EM with Deep Learning.](https://dx.doi.org/10.2174/1386207325666220514143909) Combinatorial Chemistry and High Throughput Screening, 26(3), 449-458.
 - [Rocha, D. C., Omoregbee, M. O., Luo, W., Fang, H., **Ye, Q.**, Liu, Y., Li, G., Mascoveto, J., de Souza, A. A., Coleman, G., Culver, J. N., and Qi, Y. (2026). Transgene-free genome editing in citrus and poplar meristem tissues via biolistic ribonucleoprotein delivery of CRISPR-Cas9.](https://doi.org/10.1007/s00299-026-03741-9) Plant cell reports, 45(3), 58. 
 - [Carillo, K. J., He, Y., **Ye, Q.**, Delaeter, N., Chen, Y., Orban, J., and Liu, Y. (2024). Solution NMR backbone resonance assignment of the full-length resistance-related calcium-binding protein Sorcin.](https://link.springer.com/article/10.1007/s12104-024-10196-0) Biomolecular NMR Assignments, 18(2):253-256.  
 - [Yang, Z., Cai, X., **Ye, Q.**, Zhao, Y., Li, X., Zhang, S., and Zhang, L. (2023). High-Throughput Screening for the Potential Inhibitors of SARS-CoV-2 with Essential Dynamic Behavior.](https://www.eurekaselect.com/article/130021) Current Drug Targets, 24(6), 532-545.
