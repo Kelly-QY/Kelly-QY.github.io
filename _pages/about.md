@@ -33,8 +33,15 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 </div>
 </div>
 </div>
+
 <div style="text-align: justify;" markdown="1">
-  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/transformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- [**Ye, Q.**,... and Zhang, L. (2024). Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Protein in SARS-CoV-2 by Machine Learning.](https://www.mdpi.com/1422-0067/25/9/4662) International Journal of Molecular Sciences, 25(9), 4662.
+</div>
+</div>
+</div>
 - [**Ye, Q.**,... and Zhang, L. (2023). Accounting Conformational Dynamics into Structural Modeling Reflected by Cryo-EM with Deep Learning.](https://dx.doi.org/10.2174/1386207325666220514143909) Combinatorial Chemistry and High Throughput Screening, 26(3), 449-458.
 - [Rocha, D. C., Omoregbee, M. O., Luo, W., Fang, H., **Ye, Q.**, ... and Qi, Y. (2026). Transgene-free genome editing in citrus and poplar meristem tissues via biolistic ribonucleoprotein delivery of CRISPR-Cas9.](https://doi.org/10.1007/s00299-026-03741-9) Plant cell reports, 45(3), 58. 
 - [Carillo, K. J., He, Y., **Ye, Q.**,... and Liu, Y. (2024). Solution NMR backbone resonance assignment of the full-length resistance-related calcium-binding protein Sorcin.](https://link.springer.com/article/10.1007/s12104-024-10196-0) Biomolecular NMR Assignments, 18(2):253-256.  
