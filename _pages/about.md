@@ -100,21 +100,22 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 </style>
 
 <div id="visitor-counter">
-  Visitors: <span id="gc-visits">…</span>
+  Site visits: <span id="gc-visits"></span>
 </div>
 
 <script>
 (function () {
-  // TOTAL shows site-wide totals (not just this page)
   const url = "https://qiushiye.goatcounter.com/counter/TOTAL.json";
 
   fetch(url)
-    .then(r => r.json())
+    .then(response => response.json())
     .then(data => {
-      document.getElementById("gc-visits").textContent = data.count;
+      if (data && data.count) {
+        document.getElementById("gc-visits").textContent = data.count;
+      }
     })
     .catch(() => {
-      document.getElementById("gc-visits").textContent = "";
+      document.getElementById("visitor-counter").style.display = "none";
     });
 })();
 </script>
