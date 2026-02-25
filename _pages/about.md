@@ -95,7 +95,7 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
   margin: 30px 0 10px 0;
   font-size: 0.9em;
   color: #666;
-  text-align: left;
+  text-align: right;
 }
 </style>
 
