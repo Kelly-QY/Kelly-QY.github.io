@@ -89,30 +89,32 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 -	International Workshop on Soft Matter and Biophysics Theories (SMBP), Poster, Xi’an, Shaanxi, China, *2023/8*
 </div>
 
-<!-- Visitor Counter — non-fixed (bottom of page) -->
+<!-- Visitor Counter (bottom of page, left) -->
 <style>
 #visitor-counter {
-  display: inline-block;
-  margin: 30px 0 10px 0; /* space above it */
+  margin: 30px 0 10px 0;
   font-size: 0.9em;
   color: #666;
-  text-align: left;      /* left-aligned within the content area */
-}
-@media (max-width: 640px) {
-  #visitor-counter { font-size: 0.85em; margin-left: 8px; }
+  text-align: left;
 }
 </style>
 
 <div id="visitor-counter">
-  Visitors: <span id="gc-visits"></span>
+  Visitors: <span id="gc-visits">…</span>
 </div>
 
 <script>
-window.addEventListener("load", function () {
-  window.goatcounter = window.goatcounter || {};
-  window.goatcounter.visit_count = { append: "#gc-visits" };
-  if (window.goatcounter && typeof window.goatcounter.count === "function") {
-    window.goatcounter.count();
-  }
-});
+(function () {
+  // TOTAL shows site-wide totals (not just this page)
+  const url = "https://qiushiye.goatcounter.com/counter/TOTAL.json";
+
+  fetch(url)
+    .then(r => r.json())
+    .then(data => {
+      document.getElementById("gc-visits").textContent = data.count;
+    })
+    .catch(() => {
+      document.getElementById("gc-visits").textContent = "";
+    });
+})();
 </script>
