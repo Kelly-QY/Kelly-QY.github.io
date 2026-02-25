@@ -88,3 +88,26 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 -	Frontiers in Chemistry and Biology Interface Symposium (FCBIS), Poster, University of Maryland, Baltimore County, USA, *2024/5*
 -	International Workshop on Soft Matter and Biophysics Theories (SMBP), Poster, Xi’an, Shaanxi, China, *2023/8*
 </div>
+
+<!-- Visitor Counter (bottom-left corner) -->
+<style>
+#visitor-counter {
+  position: fixed;
+  bottom: 10px;
+  left: 15px;
+  font-size: 0.8em;
+  color: #666;
+  z-index: 999;
+}
+</style>
+
+<div id="visitor-counter">
+  Visitors: <span id="gc-visits"></span>
+</div>
+
+<script>
+window.goatcounter = window.goatcounter || {};
+window.goatcounter.visit_count = {
+  append: "#gc-visits"
+};
+</script>
