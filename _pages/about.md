@@ -89,16 +89,17 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 -	International Workshop on Soft Matter and Biophysics Theories (SMBP), Poster, Xi’an, Shaanxi, China, *2023/8*
 </div>
 
-
-<!-- Visitor Counter (bottom-left corner) -->
+<!-- Visitor Counter — non-fixed (bottom of page) -->
 <style>
 #visitor-counter {
-  position: fixed;
-  bottom: 10px;
-  left: 15px;
-  font-size: 0.8em;
+  display: inline-block;
+  margin: 30px 0 10px 0; /* space above it */
+  font-size: 0.9em;
   color: #666;
-  z-index: 999;
+  text-align: left;      /* left-aligned within the content area */
+}
+@media (max-width: 640px) {
+  #visitor-counter { font-size: 0.85em; margin-left: 8px; }
 }
 </style>
 
@@ -110,8 +111,6 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 window.addEventListener("load", function () {
   window.goatcounter = window.goatcounter || {};
   window.goatcounter.visit_count = { append: "#gc-visits" };
-
-  // If GoatCounter loaded after this, ask it to run again.
   if (window.goatcounter && typeof window.goatcounter.count === "function") {
     window.goatcounter.count();
   }
