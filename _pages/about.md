@@ -27,28 +27,28 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 # 📝 Publications 
 <div style="text-align: justify;" markdown="1">
   
-- [Rocha, D. C., Omoregbee, M. O., Luo, W., Fang, H., **Ye, Q.**, Liu, Y., Li, G., Mascoveto, J., de Souza, A. A., Coleman, G., Culver, J. N., and Qi, Y. (2026). Transgene-free genome editing in citrus and poplar meristem tissues via biolistic ribonucleoprotein delivery of CRISPR-Cas9.](https://doi.org/10.1007/s00299-026-03741-9) Plant cell reports, 45(3), 58.
+- Rocha, D. C., Omoregbee, M. O., Luo, W., Fang, H., **Ye, Q.**, Liu, Y., Li, G., Mascoveto, J., de Souza, A. A., Coleman, G., Culver, J. N., and Qi, Y. (2026). [Transgene-free genome editing in citrus and poplar meristem tissues via biolistic ribonucleoprotein delivery of CRISPR-Cas9.](https://doi.org/10.1007/s00299-026-03741-9) Plant cell reports, 45(3), 58.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/stopped-flow-paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
-- [**Ye, Q.**, Carillo, K. J., Delaeter, N., Zhang, L., Jeon, J., and Liu, Y. (2025). Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering.](https://portlandpress.com/biochemj/article/482/21/BCJ20253194/236661/Kinetic-investigation-of-calcium-induced-Sorcin) Biochemical Journal, 482(21), 1677–1688.
+- **Ye, Q.**, Carillo, K. J., Delaeter, N., Zhang, L., Jeon, J., and Liu, Y. (2025). [Kinetic investigation of calcium-induced Sorcin aggregation by stopped-flow light scattering.](https://portlandpress.com/biochemj/article/482/21/BCJ20253194/236661/Kinetic-investigation-of-calcium-induced-Sorcin) Biochemical Journal, 482(21), 1677–1688.
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/transformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
-- [**Ye, Q.**, Wang, H., Xu, F., Zhang, S., Zhang, S., Yang, Z., and Zhang, L. (2024). Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Protein in SARS-CoV-2 by Machine Learning.](https://www.mdpi.com/1422-0067/25/9/4662) International Journal of Molecular Sciences, 25(9), 4662.
+- **Ye, Q.**, Wang, H., Xu, F., Zhang, S., Zhang, S., Yang, Z., and Zhang, L. (2024). [Co-Mutations and Possible Variation Tendency of the Spike RBD and Membrane Protein in SARS-CoV-2 by Machine Learning.](https://www.mdpi.com/1422-0067/25/9/4662) International Journal of Molecular Sciences, 25(9), 4662.
 </div>
 </div>
 </div>
 <div style="text-align: justify;" markdown="1">
   
-- [Carillo, K. J., He, Y., **Ye, Q.**, Delaeter, N., Chen, Y., Orban, J., and Liu, Y. (2024). Solution NMR backbone resonance assignment of the full-length resistance-related calcium-binding protein Sorcin.](https://link.springer.com/article/10.1007/s12104-024-10196-0) Biomolecular NMR Assignments, 18(2):253-256.  
-- [**Ye, Q.**, Zhao, Y., Li, X., Zhao, Y., Fu, X., Zhang, S., Yang, Z., and Zhang, L. (2023). Accounting Conformational Dynamics into Structural Modeling Reflected by Cryo-EM with Deep Learning.](https://dx.doi.org/10.2174/1386207325666220514143909) Combinatorial Chemistry and High Throughput Screening, 26(3), 449-458.
-- [Yang, Z., Cai, X., **Ye, Q.**, Zhao, Y., Li, X., Zhang, S., and Zhang, L. (2023). High-Throughput Screening for the Potential Inhibitors of SARS-CoV-2 with Essential Dynamic Behavior.](https://www.eurekaselect.com/article/130021) Current Drug Targets, 24(6), 532-545.
-- [Yang, Z., Zhang, Z., Zhao, Y., **Ye, Q.**, Li, X., Meng, L., Long, J., Zhang, S., and Zhang, L. (2022). Organelle interaction and drug discovery: Towards correlative nanoscopy and molecular dynamics (MD) simulation.](https://www.frontiersin.org/article/10.3389/fphar.2022.935898) Frontiers in Pharmacology, 13, 935898.
+- Carillo, K. J., He, Y., **Ye, Q.**, Delaeter, N., Chen, Y., Orban, J., and Liu, Y. (2024). [Solution NMR backbone resonance assignment of the full-length resistance-related calcium-binding protein Sorcin.](https://link.springer.com/article/10.1007/s12104-024-10196-0) Biomolecular NMR Assignments, 18(2):253-256.  
+- **Ye, Q.**, Zhao, Y., Li, X., Zhao, Y., Fu, X., Zhang, S., Yang, Z., and Zhang, L. (2023). [Accounting Conformational Dynamics into Structural Modeling Reflected by Cryo-EM with Deep Learning.](https://dx.doi.org/10.2174/1386207325666220514143909) Combinatorial Chemistry and High Throughput Screening, 26(3), 449-458.
+- Yang, Z., Cai, X., **Ye, Q.**, Zhao, Y., Li, X., Zhang, S., and Zhang, L. (2023). [High-Throughput Screening for the Potential Inhibitors of SARS-CoV-2 with Essential Dynamic Behavior.](https://www.eurekaselect.com/article/130021) Current Drug Targets, 24(6), 532-545.
+- Yang, Z., Zhang, Z., Zhao, Y., **Ye, Q.**, Li, X., Meng, L., Long, J., Zhang, S., and Zhang, L. (2022). [Organelle interaction and drug discovery: Towards correlative nanoscopy and molecular dynamics (MD) simulation.](https://www.frontiersin.org/article/10.3389/fphar.2022.935898) Frontiers in Pharmacology, 13, 935898.
 </div>
 
 # 🎖 Honors and Awards
@@ -65,7 +65,7 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 # 📖 Educations
 <div style="text-align: justify;" markdown="1">
 
-- *2020/09 - 2026/03*, Ph.D. candidate, School of Physics, Xi'an Jiaotong University
+- *2020/09 - 2026/06*, Ph.D. candidate, School of Physics, Xi'an Jiaotong University
 - *2023/11 - 2025/10*, visiting scholar, University of Maryland, College Park/ Institute for Bioscience and Biotechnology Research
 - *2016/09 - 2020/06*, B.S. in Mathematics, School of Mathematics and Statistics, Northwest Normal University
 </div>
