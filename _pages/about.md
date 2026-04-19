@@ -54,6 +54,7 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 # 🎖 Honors and Awards
 <div style="text-align: justify;" markdown="1">
 
+- Best Oral Presentation Award, 2rd XJTU_XJTLU_UoL Doctoral Wisdom Convergence Camp, *2026*
 -	Travel Award, FASEB Protein Aggregation Conference, *2025*
 - Excellent Graduate Student Award, Xi’an Jiaotong University, *2022, 2024*
 - First-Tier Scholarship for Graduate Student, Xi’an Jiaotong University, *2020-2024*
@@ -74,6 +75,7 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 **ORAL PRESENTATION:** 
 <div style="text-align: justify;" markdown="1">
 
+-	The 2rd XJTU_XJTLU_UoL Doctoral Wisdom Convergence Camp, Xi’an Jiaotong University, Xi’an, Shaanxi, China, *2026/4*
 -	The 4th Annual Early Career Symposium, Oral presentation, Institute for Bioscience and Biotechnology Research, Rockville, MD, USA, *2025/9*
 - FASEB Protein Aggregation Conference, Poster flash talk, Scottsdale, AZ, USA, *2025/6*
 -	Graduate Research Appreciation Day (GRAD), Oral presentation, University of Maryland, College Park, MD, USA, *2025/4*
