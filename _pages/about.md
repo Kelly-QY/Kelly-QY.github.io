@@ -75,7 +75,7 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 # 📖 Education
 <div style="text-align: justify;" markdown="1">
 
-- *2020/09 - 2026/06*, Ph.D. candidate, School of Physics, Xi'an Jiaotong University
+- *2020/09 - 2026/09*, Ph.D. candidate, School of Physics, Xi'an Jiaotong University
 - *2023/11 - 2025/10*, visiting scholar, University of Maryland, College Park/ Institute for Bioscience and Biotechnology Research
 - *2016/09 - 2020/06*, B.S. in Mathematics, School of Mathematics and Statistics, Northwest Normal University
 </div>
