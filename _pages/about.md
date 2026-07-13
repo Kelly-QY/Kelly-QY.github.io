@@ -26,7 +26,7 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 
 # 📝 Publications 
 <div style="text-align: justify;" markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Sorcin_MD_GA.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Sorcin_MD_GA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
  
