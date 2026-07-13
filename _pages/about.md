@@ -26,8 +26,16 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 
 # 📝 Publications 
 <div style="text-align: justify;" markdown="1">
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Sorcin_MD_GA.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+ 
 - **Ye, Q.**, Boyenle, I. D., Hemesath, H., Carillo, K. J., Manssuri, M., Zhang, L., and Liu, Y. (2026). [Long-Timescale Molecular Dynamics Reveal a Coordination-Biased Conformational Selection Mechanism for Sorcin Activation.](https://doi.org/10.64898/2026.07.08.737357) BioRxiv.
+</div>
+</div>
+</div>
+<div style="text-align: justify;" markdown="1">
+  
 - Rocha, D. C., Omoregbee, M. O., Luo, W., Fang, H., **Ye, Q.**, Liu, Y., Li, G., Mascoveto, J., de Souza, A. A., Coleman, G., Culver, J. N., and Qi, Y. (2026). [Transgene-free genome editing in citrus and poplar meristem tissues via biolistic ribonucleoprotein delivery of CRISPR-Cas9.](https://doi.org/10.1007/s00299-026-03741-9) Plant cell reports, 45(3), 58.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/stopped-flow-paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
