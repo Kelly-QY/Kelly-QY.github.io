@@ -30,7 +30,7 @@ I am currently a Ph.D. candidate at the School of Physics, Xi’an Jiaotong Univ
 <div class='paper-box-text' markdown="1">
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
-- **Ye, Q.**, Wu A., Carillo, K. J., Boyenle, I. D., Hemesath, H., He, Y., Delaeter N., Jeon, J., Orban J., Zhang, L., and Liu, Y.(2026). [A Conserved Flexible N-Terminal Domain Tunes the Calcium Sensitivity of Sorcin by Stabilizing Its Active Conformation.](https://doi.org/10.64898/2026.07.08.737357) BioRxiv.
+- **Ye, Q.**, Wu, A., Carillo, K. J., Boyenle, I. D., Hemesath, H., He, Y., Delaeter N., Jeon, J., Orban J., Zhang, L., and Liu, Y.(2026). [A Conserved Flexible N-Terminal Domain Tunes the Calcium Sensitivity of Sorcin by Stabilizing Its Active Conformation.](https://doi.org/10.64898/2026.07.29.741579) BioRxiv.
 </div>
 </div>
 </div>
