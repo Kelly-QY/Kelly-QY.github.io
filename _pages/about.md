@@ -74,7 +74,7 @@ I recently received my Ph.D. in Physics from Xi’an Jiaotong University. My res
 - Best Oral Presentation Award, 2nd XJTU_XJTLU_UoL Doctoral Wisdom Convergence Camp, *2026*
 -	Travel Award, FASEB Protein Aggregation Conference, *2025*
 - Excellent Graduate Student Award, Xi’an Jiaotong University, *2022, 2024*
-- First-Tier Scholarship for Graduate Student, Xi’an Jiaotong University, *2020-2024*
+- First-Tier Scholarship for Graduate Student, Xi’an Jiaotong University, *2020-2025*
 -	Scholarship for Academic Research, Northwest Normal University, *2017-2018*
 -	Excellent Undergraduate Student Award (Top 1%), Gansu Province, *2017*
 -	First-Tier Scholarship for Undergraduate Student, Northwest Normal University, *2016-2020*
