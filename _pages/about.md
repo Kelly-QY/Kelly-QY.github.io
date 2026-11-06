@@ -38,7 +38,7 @@ I recently received my Ph.D. in Physics from Xi’an Jiaotong University. My res
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Sorcin_MD_GA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- **Ye, Q.**, Boyenle, I. D., Hemesath, H., Carillo, K. J., Manssuri, M., Zhang, L., and Liu, Y. (2026). [Long-Timescale Molecular Dynamics Reveal a Coordination-Biased Conformational Selection Mechanism for Sorcin Activation.](https://doi.org/10.64898/2026.07.08.737357) Journal of Chemical Information and Modeling, in press.
+- **Ye, Q.**, Boyenle, I. D., Hemesath, H., Carillo, K. J., Manssuri, M., Zhang, L., and Liu, Y. (2026). [Long-Timescale Molecular Dynamics Reveal a Coordination-Biased Conformational Selection Mechanism for Sorcin Activation.](https://doi.org/10.1021/acs.jcim.6c02340) Journal of Chemical Information and Modeling, in press.
 </div>
 </div>
 </div>
